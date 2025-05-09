@@ -1,0 +1,5 @@
+requests==2.31.0
+Pillow==9.4.0
+matplotlib==3.7.1
+torch==2.1.0  # If you're working with PyTorch
+torchvision==0.15.0  # For image transformations and loading
